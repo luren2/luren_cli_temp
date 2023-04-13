@@ -1,1 +1,1 @@
-# luren_cli_temp
+## vue脚手架模板
